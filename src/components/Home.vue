@@ -525,5 +525,14 @@ textarea {
   color: var(--color-white);
 }
 
+.footer__social a {
+  display: inline-block;
+  margin: 0 0.75rem; /* aumentato leggermente */
+  color: #f3f4f6;
+  font-size: 1.5rem;  /* opzionale, se vuoi renderle più leggibili */
+  transition: color 0.3s ease;
+}
+
+
 
 </style>
